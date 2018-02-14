@@ -4,7 +4,7 @@
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 61,
-    "versionPublish": "4.6.5",
+    "versionPublish": "4.3.0",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -526,16 +526,12 @@
           "_anchor": "gallery1-i",
           "_protectedParams": [
             "text_all",
-            "gallery__filtersTextStyle",
-            "gallery__filtersBtnStyle",
             "gallery"
           ],
           "_global": false,
           "_once": false,
           "_params": {
             "text_all": "All",
-            "gallery__filtersTextStyle": "display-7",
-            "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
                 "tags": "Animated",
@@ -693,16 +689,12 @@
           "_anchor": "gallery1-1g",
           "_protectedParams": [
             "text_all",
-            "gallery__filtersTextStyle",
-            "gallery__filtersBtnStyle",
             "gallery"
           ],
           "_global": false,
           "_once": false,
           "_params": {
             "text_all": "All",
-            "gallery__filtersTextStyle": "display-7",
-            "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
                 "tags": "Awesome",
@@ -859,16 +851,12 @@
           "_anchor": "gallery1-1m",
           "_protectedParams": [
             "text_all",
-            "gallery__filtersTextStyle",
-            "gallery__filtersBtnStyle",
             "gallery"
           ],
           "_global": false,
           "_once": false,
           "_params": {
             "text_all": "All",
-            "gallery__filtersTextStyle": "display-7",
-            "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
                 "tags": "Responsive",
@@ -1813,16 +1801,12 @@
           "_anchor": "gallery1-10",
           "_protectedParams": [
             "text_all",
-            "gallery__filtersTextStyle",
-            "gallery__filtersBtnStyle",
             "gallery"
           ],
           "_global": false,
           "_once": false,
           "_params": {
             "text_all": "All",
-            "gallery__filtersTextStyle": "display-7",
-            "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
                 "tags": "Animated",
@@ -2462,16 +2446,12 @@
           "_anchor": "gallery1-w",
           "_protectedParams": [
             "text_all",
-            "gallery__filtersTextStyle",
-            "gallery__filtersBtnStyle",
             "gallery"
           ],
           "_global": false,
           "_once": false,
           "_params": {
             "text_all": "All",
-            "gallery__filtersTextStyle": "display-7",
-            "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
                 "tags": "Animated",
@@ -3075,16 +3055,12 @@
           "_anchor": "gallery1-14",
           "_protectedParams": [
             "text_all",
-            "gallery__filtersTextStyle",
-            "gallery__filtersBtnStyle",
             "gallery"
           ],
           "_global": false,
           "_once": false,
           "_params": {
             "text_all": "All",
-            "gallery__filtersTextStyle": "display-7",
-            "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
                 "tags": "Animated",
@@ -3676,16 +3652,12 @@
           "_anchor": "gallery1-1a",
           "_protectedParams": [
             "text_all",
-            "gallery__filtersTextStyle",
-            "gallery__filtersBtnStyle",
             "gallery"
           ],
           "_global": false,
           "_once": false,
           "_params": {
             "text_all": "All",
-            "gallery__filtersTextStyle": "display-7",
-            "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
                 "tags": "Animated",
