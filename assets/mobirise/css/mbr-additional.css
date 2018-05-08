@@ -29,10 +29,10 @@ body {
 }
 .display-2 {
   font-family: 'Inconsolata', monospace;
-  font-size: 2.4rem;
+  font-size: 0.8rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 3.84rem;
+  font-size: 1.28rem;
 }
 .display-4 {
   font-family: 'Inconsolata', monospace;
@@ -42,11 +42,11 @@ body {
   font-size: 1.92rem;
 }
 .display-5 {
-  font-family: 'Inconsolata', monospace;
-  font-size: 1rem;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 0.8rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.28rem;
 }
 .display-7 {
   font-family: 'Inconsolata', monospace;
@@ -67,9 +67,9 @@ body {
     line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 1.92rem;
-    font-size: calc( 1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.64rem;
+    font-size: calc( 0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.96rem;
@@ -77,9 +77,9 @@ body {
     line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 0.8rem;
-    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.64rem;
+    font-size: calc( 0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1372,18 +1372,6 @@ body {
 }
 .dropup .dropdown-toggle::after {
   display: none;
-}
-.cid-qLCHT7v3ct {
-  padding-top: 15px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-qLCHT7v3ct .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qLCHT7v3ct H2 {
-  text-align: left;
-  color: #000000;
 }
 .cid-qwf8oTycdW .navbar {
   padding: .5rem 0;
