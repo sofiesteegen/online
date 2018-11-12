@@ -1357,6 +1357,15 @@ body {
 .cid-r7da4Zx0Fy .mbr-text {
   color: #232323;
 }
+.cid-r9chdqcXMG {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-r9chdqcXMG .media-container-row .mbr-text {
+  text-align: center;
+  color: #232323;
+}
 .cid-r7df5GpG5Z {
   padding-top: 60px;
   padding-bottom: 0px;
@@ -1553,6 +1562,15 @@ body {
   }
 }
 .cid-r7djqJHo3b .mbr-text {
+  color: #232323;
+}
+.cid-r9chBOksue {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-r9chBOksue .media-container-row .mbr-text {
+  text-align: center;
   color: #232323;
 }
 .cid-r9cclO3GTG {
@@ -1756,6 +1774,15 @@ body {
 .cid-r9cclP4pEz .mbr-text {
   color: #232323;
 }
+.cid-r9chDRohDi {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-r9chDRohDi .media-container-row .mbr-text {
+  text-align: center;
+  color: #232323;
+}
 .cid-r9ccpQ8LIt {
   padding-top: 60px;
   padding-bottom: 0px;
@@ -1827,134 +1854,13 @@ body {
 .cid-r9ccpQ8LIt .mbr-text I {
   color: #f7ed4a;
 }
-.cid-r9ccpRaACK {
-  padding-top: 105px;
-  padding-bottom: 0px;
+.cid-r9chFEsU9c {
+  padding-top: 30px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-r9ccpRaACK h2 {
-  text-align: left;
-}
-.cid-r9ccpRaACK h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-r9ccpRaACK p {
-  color: #767676;
-  text-align: left;
-}
-.cid-r9ccpRaACK .aside-content {
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
-}
-.cid-r9ccpRaACK .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  word-break: break-word;
-}
-.cid-r9ccpRaACK .media {
-  margin: initial;
-  align-items: center;
-  -webkit-align-items: center;
-}
-.cid-r9ccpRaACK .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  -webkit-flex-shrink: 0;
-  flex-shrink: 0;
-}
-.cid-r9ccpRaACK .card-img {
-  padding-right: 2rem;
-  width: auto;
-}
-.cid-r9ccpRaACK .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-@media (min-width: 992px) {
-  .cid-r9ccpRaACK .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-r9ccpRaACK .mbr-figure {
-    padding-right: 0;
-    padding-bottom: 1rem;
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 300px) {
-  .cid-r9ccpRaACK .card-img span {
-    font-size: 40px !important;
-  }
-}
-.cid-r9ccpRaACK .mbr-text {
-  color: #232323;
-}
-.cid-r9ccpRKwuy {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-r9ccpRKwuy h2 {
-  text-align: left;
-}
-.cid-r9ccpRKwuy h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-r9ccpRKwuy p {
-  color: #767676;
-  text-align: left;
-}
-.cid-r9ccpRKwuy .aside-content {
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
-}
-.cid-r9ccpRKwuy .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  word-break: break-word;
-}
-.cid-r9ccpRKwuy .media {
-  margin: initial;
-  align-items: center;
-  -webkit-align-items: center;
-}
-.cid-r9ccpRKwuy .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  -webkit-flex-shrink: 0;
-  flex-shrink: 0;
-}
-.cid-r9ccpRKwuy .card-img {
-  padding-right: 2rem;
-  width: auto;
-}
-.cid-r9ccpRKwuy .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-@media (min-width: 992px) {
-  .cid-r9ccpRKwuy .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-r9ccpRKwuy .mbr-figure {
-    padding-right: 0;
-    padding-bottom: 1rem;
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 300px) {
-  .cid-r9ccpRKwuy .card-img span {
-    font-size: 40px !important;
-  }
-}
-.cid-r9ccpRKwuy .mbr-text {
+.cid-r9chFEsU9c .media-container-row .mbr-text {
+  text-align: center;
   color: #232323;
 }
 .cid-r9ccspMJkh {
@@ -2153,5 +2059,14 @@ body {
   }
 }
 .cid-r9ccsqUao5 .mbr-text {
+  color: #232323;
+}
+.cid-r9chLfDfnd {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-r9chLfDfnd .media-container-row .mbr-text {
+  text-align: center;
   color: #232323;
 }
