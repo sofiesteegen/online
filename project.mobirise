@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sofie Steegen ",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -81,7 +81,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 7,
+    "uniqCompNum": 5,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/dsc04486-128x171.png",
@@ -2950,7 +2950,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>06 — 08/04/2019</b></p><p><b>GROEPS TENTOONSTELLING&nbsp;<br></b><b style=\"font-size: 1rem;\">9000 GENT, BELGIË&nbsp;</b></p><p>10 kunstenaars in 1 locatie</p><p>Locatie: Perkamentstraat 2&nbsp;</p><p><b style=\"font-size: 1rem;\">• <a href=\"https://www.facebook.com/events/328000511184988/?active_tab=about\" target=\"_blank\" class=\"text-black\">Bezoek Facebook event</a></b><br></p><p><br></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>06 — 08/04/2019<br></b><b style=\"font-size: 1rem;\">GROEP EXPO<br></b><b style=\"font-size: 1rem;\">9000 GENT, BELGIË&nbsp;<br></b><span style=\"font-size: 1rem;\">10 kunstenaars&nbsp;<br></span><span style=\"font-size: 1rem;\">Locatie: Perkamentstraat 2&nbsp;<br></span><b style=\"font-size: 1rem;\">• <a href=\"https://www.facebook.com/events/328000511184988/?active_tab=about\" target=\"_blank\" class=\"text-black\">Bezoek Facebook event</a></b></p><p><b>04 - 15/07/2019</b><br><b>PASTICHE&nbsp;</b><br><b>9000 GENT, BELGIË&nbsp;</b><br>7 kunstenaars&nbsp;<br>Locatie: BLANCO, Coupure Rechts 308<br>• <a href=\"https://www.facebook.com/events/850337128656008/?event_time_id=850337141989340\" target=\"_blank\" class=\"text-black\">Bezoek Facebook event</a></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "r9QAw95i9W",
           "_anchor": "content1-7",
           "_protectedParams": [],
