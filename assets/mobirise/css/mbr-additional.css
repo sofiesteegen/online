@@ -3413,6 +3413,18 @@ body {
   display: block;
   text-align: center;
 }
+.cid-rBWAXlDAtX {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rBWAXlDAtX .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-rBWAXlDAtX .social-list a:focus {
+  text-decoration: none;
+}
 .cid-r9chLfDfnd {
   padding-top: 30px;
   padding-bottom: 15px;
